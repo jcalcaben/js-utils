@@ -1,0 +1,10 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "My personal JavaScript utility library",
+  "main": "src/index.js",
+  "repository": "git@github.com:jcalcaben/js-utils.git",
+  "author": "James Calcaben <calcaben@adobe.com>",
+  "license": "GNU",
+  "private": false
+}
